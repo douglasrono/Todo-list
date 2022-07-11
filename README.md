@@ -1,7 +1,7 @@
 # Todo-list
 Save your daily tasks
 
-#Features
+## Features
 <li> Add new task <li/>
 <li> Delete single task 
 <li> Mark task as completed <li/>
