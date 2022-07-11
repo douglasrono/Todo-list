@@ -3,11 +3,11 @@ Save your daily tasks
 
 #Features
  Add new task
-->Delete single task <br/>
+<li> Delete single task </li> <br/>
 ->Mark task as completed <br/>
 
 ## Technologies used
-->HTML <br/>
-->CSS  <br/>
-->JAVASCRIP <br/>
-->BOOTSTRAP <br/>
+<li> HTML </li> <br/>
+<li> CSS </li> <br/>
+<li> JAVASCRIPT </li> <br/>
+<li>  BOOSTRAP </li> <br/>
