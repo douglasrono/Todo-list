@@ -2,9 +2,9 @@
 Save your daily tasks
 
 #Features
- Add new task
-<li> Delete single task </li> <br/>
-->Mark task as completed <br/>
+<li> Add new task <li/>
+<li> Delete single task 
+<li> Mark task as completed <li/>
 
 ## Technologies used
 <li> HTML </li> <br/>
