@@ -2,7 +2,7 @@
 Save your daily tasks
 
 #Features
--> Add new task
+ Add new task
 ->Delete single task
 ->Mark task as completed
 
