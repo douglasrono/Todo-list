@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html en="us">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
+<title>My To Do List</title>
+</head>
+<body>
+  <div class="wrapper">
+      <h2>My To Do List</h2>
+      <div class="inputField">
+        <input type="text" placeholder="Enter New Task Here..">
+        <button onclick="appendTask()" class="addBtn">Add</button>
+      </div>
+      <div class="Addedtasks">
+        <h3 class="text-center text-danger"><u>My Tasks</u></h2>
+        <ul id="newTask"></ul>
+      </div>
+  </div>
+
+<script src="app.js"></script>
+</body>
+</html>

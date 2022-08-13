@@ -9,4 +9,3 @@ Save your daily tasks
 <li> HTML </li>
 <li> CSS </li>
 <li> JAVASCRIPT </li> <br/>
-<li>  BOOSTRAP </li> <br/>
