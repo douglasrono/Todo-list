@@ -5,7 +5,9 @@ Save your daily tasks
 <li> Add new task <li/>
 <li> Delete a task <li/>
 <li> Mark Task as done <li/>
-## Technologies used
+<h4><u> Technologies used</u></h4>
+<ul>
 <li> HTML </li>
 <li> CSS </li>
-<li> JAVASCRIPT </li> <br/>
+<li> JAVASCRIPT </li>
+ <ul/>
