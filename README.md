@@ -1,11 +1,12 @@
 # Todo-list
-Save your daily tasks
+<p> A JavaScript Todo app</p>
 
 ## Features
 <ul>
-<li> Add new task <li/>
-<li> Delete a task <li/>
-<li> Mark Task as done <li/>
+<li>Save your daily tasks</li>
+<li> Add new task </li>
+<li> Delete a task </li>
+<li> Mark Task as done </li>
 </ul>
 <h4><u> Technologies used</u></h4>
 <ul>
