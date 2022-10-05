@@ -1,7 +1,7 @@
 const appendTask= () => {
-  var list = document.createElement("li");
-  var taskItems = document.getElementsByTagName("input")[0].value;
-  var textItem = document.createTextNode(taskItems);
+  let list = document.createElement("li");
+  let taskItems = document.getElementsByTagName("input")[0].value;
+  let textItem = document.createTextNode(taskItems);
   list.appendChild(textItem);
   if (taskItems === '') {
     alert("Task Cannot Be Blank!");
